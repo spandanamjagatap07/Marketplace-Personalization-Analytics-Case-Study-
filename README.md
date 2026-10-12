@@ -91,8 +91,6 @@ The project is organized around these analytical views:
   Repeat-order indicators    -          Whether customer activity continues beyond an initial purchase
 
   Customer-experience indicators      Relevance, ad load, repeated exposure, and negative feedback
-  
-  -----------------------------------------------------------------------
 
 ## Investment Scenario Modeling
 
