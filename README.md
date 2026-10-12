@@ -28,10 +28,8 @@ The project evaluates recommendation quality and retail-media performance togeth
 -   **Power BI:** Interactive dashboards, KPI cards, charts, and scenario analysis.
 
 ## Dataset Overview
-
 The assessment includes the following marketplace datasets:
 
-  -----------------------------------------------------------------------
   Dataset                             Purpose
   ----------------------------------- -----------------------------------
   Customers                           Customer profiles, segments, cities, and acquisition information
