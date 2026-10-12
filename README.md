@@ -32,21 +32,23 @@ The assessment includes the following marketplace datasets:
 
   Dataset                             Purpose
   ----------------------------------- -----------------------------------
-  Customers                           Customer profiles, segments, cities, and acquisition information
+  Customers      -                     Customer profiles, segments, cities, and acquisition information
 
-  Products                            Product categories, prices, sellers, and ratings
+  Products       -                      Product categories, prices, sellers, and ratings
 
-  Recommendations_Impressions         Recommendation exposure, rank, model version, and clicks
+  Recommendations_Impressions    -      Recommendation exposure, rank, model version, and clicks
 
-  Customer_Events                     Views, clicks, wishlist, cart, and  purchase behavior
+  Customer_Events         -             Views, clicks, wishlist, cart, and  purchase behavior
 
-  Orders                              GMV, discounts, margin, source, and  repeat-order behavior
+  Orders                -               GMV, discounts, margin, source, and  repeat-order behavior
 
-  Ad_Events                           Advertising impressions, clicks,spend, and attributed GMV
+  Ad_Events            -                Advertising impressions, clicks,spend, and attributed GMV
 
-  Campaigns                           Advertisers, bidding strategies, target ROAS, and budgets
+  Campaigns               -             Advertisers, bidding strategies, target ROAS, and budgets
 
-  Recommendation_Feedback             Relevance, ad-load, and repeated-item feedback
+Recommendation_Feedback       -         relevance, ad-load, and repeated-item feedback
+  
+
   -----------------------------------------------------------------------
 
 The source data is intentionally imperfect. Data-quality checks include identifying duplicates, missing values, inconsistent labels, invalid ranks, impossible click values, negative dwell times, and invalid financial values.
