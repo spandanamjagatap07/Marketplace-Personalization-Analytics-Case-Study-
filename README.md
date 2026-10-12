@@ -1,0 +1,143 @@
+# Marketplace Personalization & Retail Media Analytics
+
+## Project Overview
+
+This project analyzes how a marketplace can improve personalization and retail-media monetization without sacrificing customer experience, product discovery, or contribution margin.
+
+The analysis connects recommendation performance, customer behavior, purchase outcomes, and advertising economics to help evaluate where the business should invest and where it may need stronger guardrails.
+
+## Business Problem
+
+Recommendation clicks and advertising revenue may increase without creating durable business value. For example, a higher click-through rate (CTR) does not necessarily mean more purchases, better margins, or stronger customer loyalty.
+
+The project evaluates recommendation quality and retail-media performance together rather than optimizing a single metric in isolation.
+
+## Objectives
+
+-   Audit and clean marketplace data before analysis.
+-   Measure the recommendation funnel from impressions and clicks to downstream actions and orders.
+-   Compare recommendation performance across model versions, surfaces, ranks, categories, and customer segments.
+-   Analyze advertising performance, including spend, clicks, CTR, CPC, ROAS, attributed GMV, and margin contribution.
+-   Build Power BI dashboards to communicate findings and support business decisions.
+-   Model a proposed ₹30 crore investment across personalization, experimentation, advertising inventory, relevance improvements, and customer-experience safeguards.
+
+## Tools & Technologies
+
+-   **Excel:** Data-quality audit, data cleaning, business analysis, KPI calculations, and investment scenario modeling.
+-   **SQL:** Multi-table analysis using joins, CTEs, aggregate functions, and window functions.
+-   **Power BI:** Interactive dashboards, KPI cards, charts, and scenario analysis.
+
+## Dataset Overview
+
+The assessment includes the following marketplace datasets:
+
+  -----------------------------------------------------------------------
+  Dataset                             Purpose
+  ----------------------------------- -----------------------------------
+  Customers                           Customer profiles, segments, cities, and acquisition information
+
+  Products                            Product categories, prices, sellers, and ratings
+
+  Recommendations_Impressions         Recommendation exposure, rank, model version, and clicks
+
+  Customer_Events                     Views, clicks, wishlist, cart, and  purchase behavior
+
+  Orders                              GMV, discounts, margin, source, and  repeat-order behavior
+
+  Ad_Events                           Advertising impressions, clicks,spend, and attributed GMV
+
+  Campaigns                           Advertisers, bidding strategies, target ROAS, and budgets
+
+  Recommendation_Feedback             Relevance, ad-load, and repeated-item feedback
+  -----------------------------------------------------------------------
+
+The source data is intentionally imperfect. Data-quality checks include identifying duplicates, missing values, inconsistent labels, invalid ranks, impossible click values, negative dwell times, and invalid financial values.
+
+## Analysis Performed
+
+### 1. Data Quality & Excel Analysis
+
+-   Audited source data and prepared a clean analytical layer.
+-   Reviewed missing values, duplicates, inconsistent labels, and invalid records.
+-   Analyzed recommendation funnel metrics and customer purchase behavior.
+-   Evaluated recommendation concentration and customer engagement patterns.
+-   Built scenario assumptions for evaluating investment trade-offs.
+
+### 2. SQL Analysis
+
+-   Connected marketplace data across relevant tables for joined analysis.
+-   Analyzed the recommendation-to-purchase funnel and customer-level behavior.
+-   Compared recommendation performance using normalized metrics.
+-   Evaluated advertising campaign performance using ROAS and margin contribution.
+-   Investigated product ranking, repeated product exposure, and downstream outcomes.
+
+### 3. Power BI Dashboards
+
+The project is organized around these analytical views:
+
+-   **Executive Scorecard:** GMV, recommendation contribution, conversion, margin, advertising revenue, ROAS, andcustomer-experience indicators.
+-   **Recommendation Performance:** Performance by model version, surface, rank, category, and customer segment.
+-   **Customer & Discovery:** Engagement segments, repeat behavior,  discovery concentration, and recommendation-assisted purchases.
+-   **Retail Media:** Spend, clicks, CTR, CPC, ROAS, attributed GMV, and margin by advertiser, category, and bidding strategy.
+-   **Investment Simulator:** A ₹30 crore allocation model with scenario assumptions, expected impact, and KPI trade-offs.
+
+## Key Metrics
+
+  -----------------------------------------------------------------------
+  Metric                              What it helps evaluate
+  ----------------------------------- -----------------------------------
+  CTR                                 How often recommendation or advertising impressions result in clicks
+
+  Conversion Rate                     How effectively interactions lead to purchases
+
+  GMV                                 Gross merchandise value generated by transactions
+
+  Recommendation-assisted GMV         GMV associated with recommendation interactions
+
+  CPC                                 Advertising cost per click
+
+  ROAS                                Attributed revenue relative to advertising spend
+
+  Contribution Margin                 Profitability after relevant variable costs
+
+  Repeat-order indicators             Whether customer activity continues beyond an initial purchase
+
+  Customer-experience indicators      Relevance, ad load, repeated exposure, and negative feedback
+  -----------------------------------------------------------------------
+
+Metric definitions and attribution rules should be documented consistently before comparing results.
+
+## Investment Scenario Modeling
+
+The investment simulator evaluates how a proposed **₹30 crore** budget could be allocated across:
+
+-   Recommendation infrastructure
+-   Experimentation
+-   Advertising inventory
+-   Recommendation relevance improvements
+-   Customer-experience safeguards
+
+Conservative, base, and aggressive assumptions can be compared to understand potential business impact and trade-offs. Scenario outputs are estimates based on assumptions, not guaranteed results.
+
+## Repository Contents
+
+A suggested repository structure is:
+
+``` text
+marketplace-personalization-retail-media/
+├── README.md
+├── data/
+│   └── README.md                 
+├── excel/
+│   └── analysis-and-scenario-model.xlsx
+├── sql/
+│   └── analysis_queries.sql
+└── power-bi/
+   └── marketplace_analytics.pbix
+
+```
+
+## Conclusion
+
+The project brings recommendation quality, customer behavior, advertising economics, and profitability into one analytical framework.
+It supports more informed decisions about personalization and retail-media investment while emphasizing customer experience and sustainable business value.
