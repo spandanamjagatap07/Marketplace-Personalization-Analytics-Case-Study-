@@ -74,8 +74,6 @@ The project is organized around these analytical views:
 -   **Investment Simulator:** A ₹30 crore allocation model with scenario assumptions, expected impact, and KPI trade-offs.
 
 ## Key Metrics
- # Metric                              What it helps evaluate
-  ----------------------------------- -----------------------------------
   CTR                   -               How often recommendation or advertising impressions result in clicks
 
   Conversion Rate          -            How effectively interactions lead to purchases
@@ -95,8 +93,6 @@ The project is organized around these analytical views:
   Customer-experience indicators      Relevance, ad load, repeated exposure, and negative feedback
   
   -----------------------------------------------------------------------
-
-Metric definitions and attribution rules should be documented consistently before comparing results.
 
 ## Investment Scenario Modeling
 
