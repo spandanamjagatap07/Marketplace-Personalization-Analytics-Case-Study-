@@ -1,0 +1,181 @@
+campaign_id,advertiser_type,category,bid_strategy,target_roas,budget
+CAM0001,Brand ,Electronics,CPA,6.08,59356
+CAM0002,Seller,Sports,ROAS,7.12,121846
+CAM0003,Brand ,Beauty,ROAS,3.66,10903
+CAM0004,Retailer,Sports,CPC,5.62,79949
+CAM0005,Brand,Home,CPA,3.6,33515
+CAM0006,Brand ,Electronics,CPA,5.75,53905
+CAM0007,Seller,Grocery,Auto,7.75,140573
+CAM0008,Brand ,Electronics,CPC,7.03,40619
+CAM0009,Brand ,Electronics,CPC,3.26,47250
+CAM0010,Brand ,Home,ROAS,4.96,107867
+CAM0011,Retailer,Fashion,CPA,3.42,26402
+CAM0012,Seller,Grocery,CPC,6.75,126108
+CAM0013,Brand,Grocery,ROAS,6.88,77824
+CAM0014,Brand,Electronics,Auto,2.62,129342
+CAM0015,Retailer,Grocery,Auto,5.81,17599
+CAM0016,Seller,Electronics,Auto,3.34,116850
+CAM0017,Seller,Sports,CPA,7.14,64969
+CAM0018,Retailer,Grocery,CPA,6.86,72729
+CAM0019,Brand,Grocery,ROAS,5.19,27475
+CAM0020,Brand ,Beauty,Auto,1.56,104400
+CAM0021,Brand ,Sports,Auto,7.29,6062
+CAM0022,Seller,Sports,Auto,2.8,105553
+CAM0023,Seller,Grocery,Auto,3.93,143944
+CAM0024,Brand,Grocery,Auto,1.9,28498
+CAM0025,Brand ,Beauty,CPC,2.17,68857
+CAM0026,Seller,Grocery,Auto,2.78,76971
+CAM0027,Retailer,Grocery,ROAS,4.89,135302
+CAM0028,Brand,Home,CPA,4.44,120079
+CAM0029,Seller,Home,Auto,7.48,114420
+CAM0030,Brand ,Sports,ROAS,2.13,67595
+CAM0031,Brand ,Sports,ROAS,2.42,118005
+CAM0032,Brand ,Grocery,Auto,5.94,129017
+CAM0033,Seller,Grocery,ROAS,5.88,140887
+CAM0034,Brand,Fashion,CPA,5.49,147388
+CAM0035,Seller,Home,CPC,5.08,82889
+CAM0036,Retailer,Sports,CPC,5.16,139080
+CAM0037,Brand,Fashion,CPC,5.82,68057
+CAM0038,Brand,Beauty,Auto,7.89,58587
+CAM0039,Brand ,Fashion,ROAS,4.77,18746
+CAM0040,Seller,Electronics,CPC,4.47,119978
+CAM0041,Brand ,Sports,CPA,6.43,87650
+CAM0042,Seller,Electronics,Auto,4.27,139740
+CAM0043,Retailer,Home,ROAS,4.44,20416
+CAM0044,Brand ,Sports,CPA,2.43,64207
+CAM0045,Seller,Grocery,CPA,7.48,8904
+CAM0046,Seller,Beauty,CPA,4.06,20004
+CAM0047,Retailer,Grocery,CPC,3.47,123624
+CAM0048,Seller,Electronics,ROAS,7.98,39948
+CAM0049,Retailer,Grocery,ROAS,3.42,72252
+CAM0050,Brand,Beauty,CPC,5.42,80563
+CAM0051,Seller,Home,CPA,1.71,8263
+CAM0052,Brand ,Grocery,ROAS,5.38,53049
+CAM0053,Seller,Grocery,Auto,6.15,98921
+CAM0054,Seller,Electronics,CPA,1.83,134710
+CAM0055,Seller,Beauty,CPA,6.85,130590
+CAM0056,Brand,Fashion,CPA,6.71,51817
+CAM0057,Seller,Beauty,CPA,4.73,66728
+CAM0058,Seller,Beauty,Auto,7.97,69987
+CAM0059,Seller,Grocery,Auto,5.52,139434
+CAM0060,Seller,Grocery,CPA,7.34,132880
+CAM0061,Seller,Fashion,CPA,5.65,141615
+CAM0062,Retailer,Grocery,CPA,6.1,54872
+CAM0063,Seller,Electronics,CPA,5.29,51596
+CAM0064,Seller,Fashion,Auto,4.59,12578
+CAM0065,Seller,Fashion,Auto,2.77,130977
+CAM0066,Retailer,Beauty,CPA,2.37,91967
+CAM0067,Seller,Grocery,CPA,1.74,31489
+CAM0068,Brand ,Grocery,ROAS,2.99,18078
+CAM0069,Seller,Home,CPC,3.83,87573
+CAM0070,Seller,Beauty,Auto,2.76,112940
+CAM0071,Brand,Home,CPA,4.31,37196
+CAM0072,Seller,Electronics,ROAS,5.34,41569
+CAM0073,Retailer,Electronics,CPC,5.32,57243
+CAM0074,Retailer,Beauty,ROAS,3.18,75552
+CAM0075,Seller,Electronics,Auto,7.2,36766
+CAM0076,Brand ,Sports,CPC,2.97,147172
+CAM0077,Seller,Fashion,CPA,3.62,63027
+CAM0078,Seller,Beauty,CPC,5.32,81465
+CAM0079,Brand ,Beauty,CPA,6.68,147213
+CAM0080,Seller,Fashion,CPC,5.21,20489
+CAM0081,Brand ,Home,Auto,2.5,33436
+CAM0082,Retailer,Sports,Auto,6.3,67605
+CAM0083,Retailer,Electronics,CPA,4.87,65965
+CAM0084,Seller,Grocery,CPC,5.51,57521
+CAM0085,Seller,Home,ROAS,2.85,40379
+CAM0086,Brand,Grocery,CPC,7.99,32960
+CAM0087,Brand ,Fashion,Auto,2.87,27365
+CAM0088,Seller,Grocery,ROAS,7.13,49269
+CAM0089,Retailer,Fashion,CPC,2.54,69335
+CAM0090,Seller,Grocery,CPC,2.03,62634
+CAM0091,Seller,Beauty,CPA,4.01,101290
+CAM0092,Retailer,Electronics,ROAS,6.77,88651
+CAM0093,Seller,Fashion,CPC,5.85,12149
+CAM0094,Retailer,Electronics,CPC,5.85,5066
+CAM0095,Brand,Home,CPC,5.13,70570
+CAM0096,Seller,Electronics,ROAS,5.64,21651
+CAM0097,Brand ,Electronics,ROAS,7.01,63045
+CAM0098,Brand,Fashion,ROAS,5.1,24427
+CAM0099,Brand,Electronics,Auto,3.58,48653
+CAM0100,Brand ,Fashion,CPC,4.2,59596
+CAM0101,Brand ,Home,Auto,1.59,140461
+CAM0102,Brand,Sports,CPA,3.31,36693
+CAM0103,Brand,Sports,CPA,6.59,29056
+CAM0104,Brand ,Fashion,CPA,7.83,109494
+CAM0105,Brand ,Beauty,CPA,7.22,44383
+CAM0106,Seller,Grocery,Auto,3.82,110729
+CAM0107,Brand ,Home,CPA,1.59,77689
+CAM0108,Seller,Electronics,ROAS,7.98,83594
+CAM0109,Retailer,Electronics,ROAS,4.23,34728
+CAM0110,Seller,Home,CPC,1.9,109491
+CAM0111,Seller,Electronics,CPC,5.11,19003
+CAM0112,Brand ,Beauty,Auto,3.68,121716
+CAM0113,Brand ,Fashion,CPC,6.52,5374
+CAM0114,Seller,Sports,CPC,5.53,117565
+CAM0115,Seller,Beauty,ROAS,2.27,137747
+CAM0116,Brand ,Sports,CPA,2.56,95979
+CAM0117,Brand ,Grocery,Auto,4.38,65434
+CAM0118,Seller,Beauty,CPA,3.86,123370
+CAM0119,Seller,Home,Auto,2.99,32074
+CAM0120,Retailer,Grocery,CPA,1.54,71153
+CAM0121,Retailer,Grocery,Auto,3.11,40348
+CAM0122,Brand ,Fashion,CPC,4.37,132339
+CAM0123,Retailer,Electronics,CPA,2.84,125544
+CAM0124,Seller,Electronics,Auto,3.98,126532
+CAM0125,Seller,Fashion,Auto,5.61,42456
+CAM0126,Seller,Sports,ROAS,3.25,136702
+CAM0127,Brand ,Fashion,Auto,6.66,46967
+CAM0128,Seller,Beauty,CPC,2.04,81156
+CAM0129,Seller,Home,CPA,3.68,117647
+CAM0130,Retailer,Grocery,CPA,6.4,63035
+CAM0131,Brand ,Home,Auto,6.86,105442
+CAM0132,Brand,Home,Auto,5.01,78265
+CAM0133,Seller,Sports,Auto,3.26,14299
+CAM0134,Seller,Beauty,CPA,2.42,55292
+CAM0135,Seller,Sports,Auto,6.29,144680
+CAM0136,Brand,Electronics,CPC,5.31,139796
+CAM0137,Retailer,Fashion,Auto,4.66,55712
+CAM0138,Seller,Fashion,ROAS,2.83,24194
+CAM0139,Retailer,Beauty,Auto,7.3,59028
+CAM0140,Retailer,Sports,CPC,2.59,108472
+CAM0141,Retailer,Home,CPC,6.02,29434
+CAM0142,Retailer,Beauty,CPA,5.34,102942
+CAM0143,Brand,Sports,CPC,2.05,44873
+CAM0144,Retailer,Beauty,Auto,4.67,99677
+CAM0145,Brand ,Fashion,Auto,4.75,143856
+CAM0146,Retailer,Beauty,ROAS,3.28,19928
+CAM0147,Seller,Electronics,ROAS,6.5,121389
+CAM0148,Brand,Beauty,Auto,6.2,79500
+CAM0149,Retailer,Sports,ROAS,5.83,17901
+CAM0150,Brand,Home,CPC,7.07,75711
+CAM0151,Seller,Beauty,Auto,6.77,70236
+CAM0152,Retailer,Electronics,Auto,1.86,58158
+CAM0153,Brand ,Electronics,ROAS,4.38,140068
+CAM0154,Seller,Fashion,CPA,5.43,32792
+CAM0155,Brand ,Grocery,CPC,7.97,66838
+CAM0156,Retailer,Grocery,CPA,3.88,118394
+CAM0157,Brand,Sports,CPC,3.88,59803
+CAM0158,Seller,Home,Auto,3.95,138478
+CAM0159,Seller,Grocery,CPA,7.49,74356
+CAM0160,Seller,Fashion,Auto,4.56,143524
+CAM0161,Brand,Beauty,CPA,2.45,149749
+CAM0162,Seller,Sports,Auto,3.41,98451
+CAM0163,Brand,Fashion,Auto,4.68,102524
+CAM0164,Brand,Electronics,CPA,2.44,109093
+CAM0165,Seller,Home,CPC,3.77,9497
+CAM0166,Brand,Fashion,ROAS,5.17,143718
+CAM0167,Brand,Home,ROAS,7.88,96982
+CAM0168,Brand,Sports,CPC,4.77,139526
+CAM0169,Seller,Fashion,CPC,1.9,17401
+CAM0170,Seller,Beauty,Auto,7.68,51696
+CAM0171,Brand ,Grocery,ROAS,7.68,49200
+CAM0172,Seller,Grocery,CPC,6.55,116132
+CAM0173,Seller,Grocery,ROAS,4.93,66162
+CAM0174,Brand,Fashion,CPC,4.95,146128
+CAM0175,Seller,Home,CPA,3.54,26265
+CAM0176,Seller,Home,CPC,5.26,81798
+CAM0177,Brand ,Sports,CPA,3.77,74109
+CAM0178,Seller,Home,CPA,5.42,86883
+CAM0179,Brand,Fashion,ROAS,3.91,145828
+CAM0180,Seller,Electronics,CPA,1.97,44958
